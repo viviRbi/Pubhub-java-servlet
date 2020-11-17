@@ -17,7 +17,6 @@ public class DAOUtilities {
 
 	//I keep the database name, password, url the same as it is
 	private static final String CONNECTION_USERNAME = "postgres";
-	//private static final String CONNECTION_PASSWORD = "Thaovy95*";
 	private static final String CONNECTION_PASSWORD = "password";
 	private static final String URL = "jdbc:postgresql://localhost:5432/PubHub";
 	
